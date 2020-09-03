@@ -1,3 +1,3 @@
 # gitTest
-now I really know how to use the github!
+now I really know master how to use the github!
 
